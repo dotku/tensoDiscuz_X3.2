@@ -1,1 +1,4 @@
-data/log/
+data/log/*
+data/cache/*
+uc_client/data/cache/*
+data/template/*
