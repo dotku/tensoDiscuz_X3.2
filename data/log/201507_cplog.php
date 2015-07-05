@@ -1,0 +1,14 @@
+<?PHP exit;?>	1436122523	admin	1	127.0.0.1		GET={}; POST={};
+<?PHP exit;?>	1436122524	admin	1	127.0.0.1	index	GET={}; POST={};
+<?PHP exit;?>	1436122597	admin	1	127.0.0.1		GET={}; POST={};
+<?PHP exit;?>	1436122597	admin	1	127.0.0.1	index	GET={}; POST={};
+<?PHP exit;?>	1436122624	admin	1	127.0.0.1	group	GET={operation=setting; }; POST={};
+<?PHP exit;?>	1436122624	admin	1	127.0.0.1	setting	GET={operation=sec; }; POST={};
+<?PHP exit;?>	1436122625	admin	1	127.0.0.1	announce	GET={}; POST={};
+<?PHP exit;?>	1436122630	admin	1	127.0.0.1	search	GET={keywords=缓存; searchsubmit=搜索; }; POST={keywords=缓存; searchsubmit=搜索; };
+<?PHP exit;?>	1436122632	admin	1	127.0.0.1	tools	GET={operation=updatecache; highlight=缓存; }; POST={};
+<?PHP exit;?>	1436122632	admin	1	127.0.0.1	tools	GET={frames=yes; operation=updatecache; highlight=缓存; }; POST={};
+<?PHP exit;?>	1436122632	admin	1	127.0.0.1	tools	GET={operation=updatecache; highlight=缓存; }; POST={};
+<?PHP exit;?>	1436122635	admin	1	127.0.0.1	tools	GET={operation=updatecache; step=2; type={0=data; 1=tpl; 2=blockclass; }; confirmed=确定; }; POST={type={0=data; 1=tpl; 2=blockclass; }; confirmed=确定; };
+<?PHP exit;?>	1436122636	admin	1	127.0.0.1	tools	GET={operation=updatecache; step=3; type=data_tpl_blockclass; }; POST={};
+<?PHP exit;?>	1436122672	admin	1	127.0.0.1	index	GET={}; POST={};
